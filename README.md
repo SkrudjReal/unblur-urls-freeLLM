@@ -7,4 +7,4 @@ Simple JS script to unblur url on freellm.sh
 
 1. Open https://freellm.sh/#models
 2. Press Ctrl + Shift + I
-3. Paste following code from ublur.js
+3. Paste following code from unblur.js
